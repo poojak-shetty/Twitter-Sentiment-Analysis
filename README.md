@@ -26,12 +26,12 @@ Formally, given a training sample of tweets and labels, where label ‘1’ deno
 # The Project
 Now lets get to my project. It has all the parts in the same notebook.
 * DATA PROCESSING AND CLEANING.
- * If we skip this step then there is a higher chance that you are working with noisy and inconsistent data.
- * The objective of this step is to clean those  which are less relevant to find the sentiment of tweets such as punctuation, special characters, numbers, and terms which don’t carry much weightage in context to the text.
+  * If we skip this step then there is a higher chance that you are working with noisy and inconsistent data.
+  * The objective of this step is to clean those  which are less relevant to find the sentiment of tweets such as punctuation, special characters, numbers, and terms which don’t carry much weightage in context to the text.
 * VISUALIZATION.
- * What are the most common words in the entire dataset? What are the most common words in the dataset for negative and positive tweets, respectively?Well,these questions are answered here.
+  * What are the most common words in the entire dataset? What are the most common words in the dataset for negative and positive tweets, respectively?Well,these questions are answered here.
 * EXTRACTING FEATURES AND TRAINING.
- * We explore the cleaned dataset and extract features using Bag-of-Words and TF-IDF.
- * We have also trained the cleaned dataset using Keras model.
- * We have predicted the labels of test dataset too.
-### THE LINK TO THIS PROJECT IS [TWITTER SENTIMENT ANALYSIS](https://colab.research.google.com/drive/19JIPeV2YErhZLDOCNfwU0icZT4BWRVaX?usp=sharing)
+  * We explore the cleaned dataset and extract features using Bag-of-Words and TF-IDF.
+  * We have also trained the cleaned dataset using Keras model.
+  * We have predicted the labels of test dataset too.
+###### THE LINK TO THIS PROJECT IS [TWITTER SENTIMENT ANALYSIS](https://colab.research.google.com/drive/19JIPeV2YErhZLDOCNfwU0icZT4BWRVaX?usp=sharing)
