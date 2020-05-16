@@ -10,7 +10,9 @@ We will do so by following a sequence of steps needed to solve a general sentime
 This is one of the most interesting challenges in NLP!
 # About the Dataset
 The dataset is taken from **Kaggle**
+
 The link to the dataset is [TWITTER-SENTIMENT-ANALYSIS](https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?select=test.csv)
+
 It has 2 files,
 * Train dataset
   * This dataset has 3 features:ITEMID,LABEL(0 AND 1) AND TWEET. 
